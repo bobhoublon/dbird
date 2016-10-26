@@ -1,2 +1,0 @@
-# dbird
-dbird reddit
